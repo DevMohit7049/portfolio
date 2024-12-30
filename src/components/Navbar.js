@@ -25,7 +25,7 @@ const links = [
         active: 'home'
     },
     {
-        name: 'Portfolio',
+        name: 'Project',
         to: 'portfolio',
         active: 'portfolio'
     }
